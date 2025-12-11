@@ -1,16 +1,22 @@
-## Hi there 👋
+##👋 Hey,
+I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Machine Learning, and building things that actually work.
 
-<!--
-**Berniceboateng775/Berniceboateng775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Working On
+- Learning, coding, breaking things… fixing them again
+- Building projects that mix creativity with tech
+- Always trying to make my code cleaner (and my README’s shorter 😄)
 
-Here are some ideas to get you started:
+## Tech Stack
+- 🤖 AI & Machine Learning - Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook, kaggle, HuggingFace
+- 🌐 Frontend Tools - React, Tailwind CSS
+- ⚙️ Backend Tools - Django
+- 🗄 Databases - PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts About Me
+- 📚 Obsessed with reading — romance, dark romance, mafia, billionaire… if it hurts, I’ve read it
+- ☕ Coffee is basically my personality at this point
+- 🗡 Demon Slayer owns my whole heart
+- 👑 Favourite FMC: Melody Nicci Giovanni Callahan (Ruthless People – J.J. McAvoy)
+- 🔥 Favourite MMC (don't make me pick): Kane Davenport from Beautiful Venom and Rhysand from ACOTAR
+- 💭 Dream: A massive personal library someday
+
