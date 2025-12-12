@@ -5,7 +5,6 @@ I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Mac
 - Learning, coding, breaking things… fixing them again
 - Building projects that mix creativity with tech
 - Always trying to make my code cleaner (and my README’s shorter 😄)
-- Current working on https://github.com/Berniceboateng775/Limerence
 
 ## Tech Stack
 - AI & Machine Learning - Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook, kaggle, HuggingFace
