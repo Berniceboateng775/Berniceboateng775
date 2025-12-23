@@ -13,7 +13,7 @@ I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Mac
 - Backend Tools - Django
 - Databases - PostgreSQL, MongoDB
 
-## Fun Facts About Me
+### Fun Facts About Me
 - 📚 Obsessed with reading romance, dark romance, mafia, billionaire… if it hurts, I’ve read it
 - 🗡 Demon Slayer owns my whole heart
 - 👑 Favourite FMC: Melody Nicci Giovanni Callahan (Ruthless People – J.J. McAvoy)
