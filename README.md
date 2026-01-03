@@ -9,7 +9,7 @@ I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Mac
 
 ### Tech Stack
 - AI & Machine Learning - Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook, kaggle, HuggingFace
-- Frontend Tools - React, Tailwind CSS
+- Frontend Tools - React, Tailwind CSS, Javascript, HTML, CSS
 - Backend Tools - Django
 - Databases - PostgreSQL, MongoDB
 
