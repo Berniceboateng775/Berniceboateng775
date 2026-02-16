@@ -14,7 +14,7 @@ I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Mac
 
 ### Fun Facts About Me
 - 📚 Obsessed with reading romance, dark romance, mafia, billionaire… if it hurts, I’ve read it
-- 🗡 Demon Slayer owns my whole heart
+- 🗡 Demon Slayer and Attack on Titan owns my whole heart
 - 👑 Favourite FMC: Melody Nicci Giovanni Callahan (Ruthless People – J.J. McAvoy)
 - 🔥 Favourite MMC (don't make me pick): Kane Davenport from Beautiful Venom and Rhysand from ACOTAR
 - 💭 Dream: A massive personal library someday
