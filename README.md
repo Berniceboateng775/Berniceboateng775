@@ -5,7 +5,7 @@ I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Mac
 - Learning, coding, breaking things… fixing them again
 - Building projects that mix creativity with tech
 - Always trying to make my code cleaner (and my README’s shorter 😄)
-- Currently working on [Limerence](https://github.com/Berniceboateng775/Limerence)(A book app and community) and ungergoing AI and ML training [AI and ML](https://github.com/Berniceboateng775/nsp-training-program)
+- Currently working on [Limerence](https://github.com/Berniceboateng775/Limerence)(A book app and community) and undergoing AI and ML training [AI and ML](https://github.com/Berniceboateng775/nsp-training-program)
 ### Tech Stack
 - AI & Machine Learning - Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook, kaggle, HuggingFace
 - Frontend Tools - React, Tailwind CSS, Javascript, HTML, CSS
