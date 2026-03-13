@@ -37,14 +37,14 @@ Projects I'm currently focused on:
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Numpy](https://skillicons.dev/icons?i=python)
-![Pandas](https://skillicons.dev/icons?i=python)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
 ![ScikitLearn](https://skillicons.dev/icons?i=sklearn)
 
 Also experienced with:
 
 - Matplotlib
+- Numpy
+- Pandas
 - HuggingFace
 - Kaggle
 - Jupyter Notebook
