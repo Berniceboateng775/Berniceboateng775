@@ -25,38 +25,21 @@ Projects I'm currently focused on:
 
 # 💻 Tech Stack
 
-## Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-
----
-
-## Frontend
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
----
-
-## Backend
 ![Django](https://skillicons.dev/icons?i=django)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
----
-
-## Databases
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Redis](https://skillicons.dev/icons?i=redis)
-
----
-
-## Cloud & Deployment
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Docker](https://skillicons.dev/icons?i=docker)
