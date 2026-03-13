@@ -39,15 +39,15 @@ Projects I'm currently focused on:
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
 ![ScikitLearn](https://skillicons.dev/icons?i=sklearn)
-https://camo.githubusercontent.com/8670fa891a66df2e293e089e6898d0d48b6c016036623dbd39ba5750746db809/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656e6465722d253436453342372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72656e646572266c6f676f436f6c6f723d7768697465
-Also experienced with:
-
-- Matplotlib
-- Numpy
-- Pandas
-- HuggingFace
-- Kaggle
-- Jupyter Notebook
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
+  
+Also experienced with:  
+  
+- HuggingFace  
+- Kaggle  
+- Jupyter Notebook  
 
 ---
 
