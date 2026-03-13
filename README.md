@@ -1,35 +1,130 @@
-### Hey!
+<h1 align="center">Hey there 👋 I'm Bernice Boateng</h1>
 
-I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Machine Learning, and building things that actually work.
+<p align="center">
+Computer Engineering Student | AI & Machine Learning Enthusiast | Builder of things that actually work
+</p>
 
-### What I'm Working On
+---
 
-- Learning, coding, breaking things… fixing them again
+## 👩‍💻 About Me
 
-- Building projects that mix creativity with tech
+I'm a **Computer Engineering student** passionate about **Artificial Intelligence, Machine Learning, and building real-world systems**.
 
-- Always trying to make my code cleaner (and my README’s shorter 😄)
+I enjoy creating projects that combine **creativity with technology**, whether it's building intelligent systems, deploying ML models, or designing user-friendly applications.
 
-- Currently working on [Limerence](https://github.com/Berniceboateng775/Limerence)(A book app and community) and undergoing AI and ML training [AI and ML](https://github.com/Berniceboateng775/nsp-training-program)
+Currently expanding my skills in **ML Engineering, cloud deployment, and scalable AI systems**.
 
-### Tech Stack
+---
 
-- AI & Machine Learning - Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook, kaggle, HuggingFace
+## 🚀 What I'm Working On
 
-- Frontend Tools - React, Tailwind CSS, Javascript, HTML, CSS
+- 📚 Building **Limerence** — a book community and reading platform  
+- 🤖 Training in **AI & Machine Learning Engineering**
+- ⚙️ Learning **model deployment, scaling APIs, and ML infrastructure**
+- 🧠 Exploring **LLMs, NLP, and intelligent systems**
 
-- Backend Tools - Django
+Projects I'm currently focused on:
 
-- Databases - PostgreSQL, MongoDB
+- 🔗 Limerence – https://github.com/Berniceboateng775/Limerence  
+- 🔗 AI/ML Training – https://github.com/Berniceboateng775/nsp-training-program
 
-### Fun Facts About Me
+---
 
-- 📚 Obsessed with reading romance, dark romance, mafia, billionaire… if it hurts, I’ve read it
+# 💻 Tech Stack
 
-- 🗡 Demon Slayer and Attack on Titan owns my whole heart
+## Languages
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-- 👑 Favourite FMC: Melody Nicci Giovanni Callahan (Ruthless People – J.J. McAvoy)
+---
 
-- 🔥 Favourite MMC (don't make me pick): Kane Davenport from Beautiful Venom and Rhysand from ACOTAR
+## Frontend
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-- 💭 Dream: A massive personal library someday
+---
+
+## Backend
+![Django](https://skillicons.dev/icons?i=django)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+---
+
+## Databases
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
+
+---
+
+## Cloud & Deployment
+![AWS](https://skillicons.dev/icons?i=aws)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+(Render doesn't have an official icon so it's usually written as text)
+
+---
+
+## DevOps & Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![NGINX](https://skillicons.dev/icons?i=nginx)
+
+---
+
+## Data Science & Machine Learning
+![Numpy](https://skillicons.dev/icons?i=python)
+![Pandas](https://skillicons.dev/icons?i=python)
+![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+![ScikitLearn](https://skillicons.dev/icons?i=sklearn)
+
+Also experienced with:
+
+- Matplotlib
+- HuggingFace
+- Kaggle
+- Jupyter Notebook
+
+---
+
+# 📊 GitHub Stats
+
+![Bernice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berniceboateng775&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Berniceboateng775&theme=tokyonight)
+
+---
+
+# 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berniceboateng775&layout=compact&theme=tokyonight)
+
+---
+
+# 📚 Fun Facts About Me
+
+- 📚 Obsessed with reading **romance, dark romance, mafia romance, billionaire romance**
+- 🗡 **Demon Slayer** and **Attack on Titan** own my whole heart
+- 👑 Favourite FMC: **Melody Nicci Giovanni Callahan** *(Ruthless People – J.J. McAvoy)*
+- 🔥 Favourite MMC: **Kane Davenport** *(Beautiful Venom)* and **Rhysand** *(ACOTAR)*
+- 💭 Dream: **A massive personal library someday**
+
+---
+
+# 🌍 Connect With Me
+
+Feel free to connect or collaborate.
+
+- GitHub: https://github.com/Berniceboateng775
