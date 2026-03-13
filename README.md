@@ -43,20 +43,10 @@ Projects I'm currently focused on:
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Docker](https://skillicons.dev/icons?i=docker)
-
-(Render doesn't have an official icon so it's usually written as text)
-
----
-
-## DevOps & Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![NGINX](https://skillicons.dev/icons?i=nginx)
-
----
-
-## Data Science & Machine Learning
 ![Numpy](https://skillicons.dev/icons?i=python)
 ![Pandas](https://skillicons.dev/icons?i=python)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
@@ -80,8 +70,6 @@ Also experienced with:
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Berniceboateng775&theme=tokyonight)
-
----
 
 # 🧠 Most Used Languages
 
