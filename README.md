@@ -1,49 +1,35 @@
-<h1 align="center">Hi 👋, I'm Bernice Boateng</h1>
-<h3 align="center">A Computer Engineering student obsessed with AI, Machine Learning, and building cool things.</h3>
+### Hey!
 
-👩‍💻 What I'm Working On
+I'm Bernice Boateng, A Computer Engineering student with a soft spot for AI, Machine Learning, and building things that actually work.
 
-🌱 Learning, coding, breaking things… fixing them again.
+### What I'm Working On
 
-💡 Building projects that mix creativity with tech.
+- Learning, coding, breaking things… fixing them again
 
-🧹 Always trying to make my code cleaner (and my READMEs shorter 😄).
+- Building projects that mix creativity with tech
 
-✨ Currently working on Limerence (A book app and community).
+- Always trying to make my code cleaner (and my README’s shorter 😄)
 
-🤖 Undergoing AI and ML training.
+- Currently working on [Limerence](https://github.com/Berniceboateng775/Limerence)(A book app and community) and undergoing AI and ML training [AI and ML](https://github.com/Berniceboateng775/nsp-training-program)
 
-💻 Tech Stack
+### Tech Stack
 
-AI & Machine Learning
+- AI & Machine Learning - Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook, kaggle, HuggingFace
 
+- Frontend Tools - React, Tailwind CSS, Javascript, HTML, CSS
 
+- Backend Tools - Django
 
-Frontend & Backend
+- Databases - PostgreSQL, MongoDB
 
+### Fun Facts About Me
 
+- 📚 Obsessed with reading romance, dark romance, mafia, billionaire… if it hurts, I’ve read it
 
-Databases & Cloud Deployment
+- 🗡 Demon Slayer and Attack on Titan owns my whole heart
 
+- 👑 Favourite FMC: Melody Nicci Giovanni Callahan (Ruthless People – J.J. McAvoy)
 
+- 🔥 Favourite MMC (don't make me pick): Kane Davenport from Beautiful Venom and Rhysand from ACOTAR
 
-📊 GitHub Stats
-
-<!-- These cards automatically update based on your GitHub activity! -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBerniceboateng775%26show_icons%3Dtrue%26theme%3Dtokyonight" height="160" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DBerniceboateng775%26theme%3Dtokyonight" height="160" alt="streak graph"  />
-</div>
-
-📚 Fun Facts About Me
-
-🖤 Obsessed with reading: Romance, dark romance, mafia, billionaire… if it hurts, I’ve read it.
-
-🗡️ Anime fan: Demon Slayer and Attack on Titan own my whole heart.
-
-👑 Favourite FMC: Melody Nicci Giovanni Callahan (Ruthless People – J.J. McAvoy).
-
-🔥 Favourite MMC (don't make me pick!): Kane Davenport from Beautiful Venom and Rhysand from ACOTAR.
-
-🏛️ Dream: A massive personal library someday!
+- 💭 Dream: A massive personal library someday
