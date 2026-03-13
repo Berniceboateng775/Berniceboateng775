@@ -27,26 +27,16 @@ Projects I'm currently focused on:
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Django](https://skillicons.dev/icons?i=django)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Redis](https://skillicons.dev/icons?i=redis)
-![AWS](https://skillicons.dev/icons?i=aws)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![NGINX](https://skillicons.dev/icons?i=nginx)
 ![Numpy](https://skillicons.dev/icons?i=python)
 ![Pandas](https://skillicons.dev/icons?i=python)
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
@@ -64,8 +54,6 @@ Also experienced with:
 # 📊 GitHub Stats
 
 ![Bernice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berniceboateng775&show_icons=true&theme=tokyonight)
-
----
 
 # 🔥 GitHub Streak
 
@@ -85,10 +73,3 @@ Also experienced with:
 - 🔥 Favourite MMC: **Kane Davenport** *(Beautiful Venom)* and **Rhysand** *(ACOTAR)*
 - 💭 Dream: **A massive personal library someday**
 
----
-
-# 🌍 Connect With Me
-
-Feel free to connect or collaborate.
-
-- GitHub: https://github.com/Berniceboateng775
