@@ -1,11 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Bernice Boateng</h1>
 
-<p align="center">
-Computer Engineering Student | AI & Machine Learning Enthusiast | Builder of things that actually work
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 I'm a **Computer Engineering student** passionate about **Artificial Intelligence, Machine Learning, and building real-world systems**.
@@ -14,7 +8,6 @@ I enjoy creating projects that combine **creativity with technology**, whether i
 
 Currently expanding my skills in **ML Engineering, cloud deployment, and scalable AI systems**.
 
----
 
 ## 🚀 What I'm Working On
 
