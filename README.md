@@ -53,4 +53,4 @@ Also experienced with:
 
 ![Spotify Recently Played - 5 unique tracks, 600px wide](https://spotify-recently-played-readme.vercel.app/api?user=312pev37l7avubjylcnpgnuun2oe&count=5&width=600&unique=true)
 
-- 💭 Dream: **A massive personal library someday**
+### Dream: **A massive personal library someday**
