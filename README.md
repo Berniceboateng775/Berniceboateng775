@@ -12,7 +12,7 @@
 Projects I'm currently focused on:
 
 - 🔗 Limerence – https://github.com/Berniceboateng775/Limerence  
-- 🔗 Heart disease data visualization – https://github.com/Berniceboateng775/nsp-training-program  
+- 🔗 Heart disease data visualization – https://github.com/Berniceboateng775/Heart-disease-project  
 
 ---
 
