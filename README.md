@@ -46,7 +46,7 @@ Also experienced with:
 ---
 #  GitHub Streak & Most Used Languages
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Berniceboateng775&theme=tokyonight)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berniceboateng775&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Berniceboateng775&theme=tokyonight)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berniceboateng775&layout=compact&theme=tokyonight)
 
 ---
 ## 🎧 What I'm Listening To
