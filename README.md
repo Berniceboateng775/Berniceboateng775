@@ -44,11 +44,6 @@ Also experienced with:
 - Jupyter Notebook  
 
 ---
-#  GitHub Streak & Most Used Languages
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Berniceboateng775&theme=tokyonight)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berniceboateng775&layout=compact&theme=tokyonight)
-
----
 ## 🎧 What I'm Listening To
 
 ![Spotify Recently Played - 5 unique tracks, 600px wide](https://spotify-recently-played-readme.vercel.app/api?user=312pev37l7avubjylcnpgnuun2oe&count=5&width=600&unique=true)
