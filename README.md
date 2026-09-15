@@ -46,6 +46,6 @@ Also experienced with:
 ---
 ## 🎧 What I'm Listening To
 
-![Spotify Recently Played - 5 unique tracks, 600px wide](https://spotify-recently-played-readme.vercel.app/api?user=312pev37l7avubjylcnpgnuun2oe&count=5&width=600&unique=true)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=312pev37l7avubjylcnpgnuun2oe&count=2&duration=1&album=1&footer=wave&bg_color=0d131c)
 
 ### Dream: **A massive personal library someday**
